@@ -1,0 +1,27 @@
+.morada{
+    background-color: rgb(146, 75, 240) !important;
+    color: azure;
+}
+
+.gris{
+    background-color: rgb(96, 96, 99) !important;
+    color: azure;
+}
+
+.goscu{
+    background-color: rgb(41, 40, 40) !important;
+    color: azure;
+}
+
+.fw-light{
+    font-size: 15px;
+}
+
+.fondo{
+    width: 5rem;
+    height: 5rem;
+}
+
+.fuente{
+    font-size: 10pt;
+}

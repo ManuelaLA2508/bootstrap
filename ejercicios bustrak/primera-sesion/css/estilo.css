@@ -1,0 +1,21 @@
+.imglogo{
+    width: 50px;
+    height: 50px;
+}
+.bg-secondary{
+    height: 5rem;
+    background-color: rgba(0, 100, 0, 0.456) !important;
+}
+.nav-link{
+    color: black !important;
+}
+.nav-link:hover{
+    color: green !important;
+}
+.container-fluid{
+    background-image: url(/img/cafe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed ;
+    height: 40rem;
+}
